@@ -1,0 +1,5 @@
+var a
+var b
+a = 20 * 3
+b = a
+print b

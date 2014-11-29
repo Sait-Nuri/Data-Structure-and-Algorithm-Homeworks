@@ -1,0 +1,17 @@
+﻿1. Problem definition:
+
+We will write a Java Interface (named GITList<E>) that defines given methods.
+
+We will write two classes (GITLinkedList and GITArrayList) that implements GITList<E> interface. 
+
+GITLinkedList will use the class KWLinkedList of the textbook by composition and will delegate all operations to this object as much as possible. 
+
+Similarly, GITArrayList will use the class KWArrayList of the textbook by composition and will delegate all operations to this object as much as possible.
+
+	
+	
+2. Problem analysis and design:
+
+	We have two classes to implement GITList<E> interface. These two classes must contain an instance of given KWLinkedList and KWArrayList separately. That is about delegation.
+
+

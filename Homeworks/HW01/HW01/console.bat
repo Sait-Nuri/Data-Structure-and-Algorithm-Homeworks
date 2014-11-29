@@ -1,0 +1,1 @@
+start cmd.exe && cd build/classes && java hw01.VisualConsole

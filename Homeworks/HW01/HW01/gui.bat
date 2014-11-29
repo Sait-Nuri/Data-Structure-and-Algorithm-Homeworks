@@ -1,0 +1,1 @@
+cd build/classes && java hw01.VisualGUI

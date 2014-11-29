@@ -1,0 +1,13 @@
+﻿Requirements:
+
+Desing a user interface to choose running type
+User can take command read file, visulise and clear the screen
+A text file included function names, ranges and colors of them.
+
+
+
+Analysis:
+
+	Two interfaces must be included. These are Visual and VisualUserInterface. The class Visual involves properties of a function that read from file. When that file is read, datas will be initialized into class Visual. Therefore functions and their properties will be ready to be printed on the screen. After that VisualUserınterface will take commands by using class Visual that initialized with datas before.  
+
+Desing, Implementation and Testing are within the project folder.

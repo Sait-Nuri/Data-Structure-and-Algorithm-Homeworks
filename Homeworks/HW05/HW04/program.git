@@ -1,0 +1,12 @@
+var a
+a = 3
+loop a
+begin
+print a
+end
+var b
+b = 5
+loop b
+begin
+print b
+end
